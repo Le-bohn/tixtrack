@@ -8,6 +8,6 @@ import { ref } from 'vue'
 
 <template>
     <div className="header">
-        <span className="title">Users</span>
+        <span className="title">Users are the most important</span>
     </div>
 </template>
